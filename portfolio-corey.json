@@ -71,25 +71,23 @@
   ],
   "projects": [
     {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "title": "Math Power Calculator",
+      "summary": "I developed a math calculator that allows users to compute the result of raising any number to the power of another number. The tool takes a base and an exponent as inputs and calculates the result efficiently. It leverages 5 AWS services: ",
+      "url": "https://staging.d1uox9gr9rd3tw.amplifyapp.com/",
+      "highlights": [
+        "AWS Lambda for the serverless backend logic.",
+        "API Gateway to expose the calculator as an API.",
+        "S3 for static file hosting.",
+        "DynamoDB for storing calculation logs.",
+        "CloudWatch for monitoring and logging."
+      ],
       "images": [
         {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
-        },
-        {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
-        },
-        {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
+          "image_path": "portfolio_media/pomimage.png",
+          "caption": "Math Power Calculator"
         }
       ]
-    }
+    },
   ],
   "volunteer_experience": [
     {

@@ -70,26 +70,20 @@
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Math Power Calculator",
+      "summary": "I developed a math calculator that allows users to compute the result of raising any number to the power of another number. The tool takes a base and an exponent as inputs and calculates the result efficiently. It leverages 5 AWS services: ",
+      "url": "https://staging.d1uox9gr9rd3tw.amplifyapp.com/",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "AWS Lambda for the serverless backend logic.",
+        "API Gateway to expose the calculator as an API.",
+        "S3 for static file hosting.",
+        "DynamoDB for storing calculation logs.",
+        "CloudWatch for monitoring and logging."
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "image_path": "portfolio_media/pomimage.png",
+          "caption": "Math Power Calculator"
         }
       ]
     },
