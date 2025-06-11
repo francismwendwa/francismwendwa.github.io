@@ -29,42 +29,43 @@
   ],
   "work_experience": [
     {
-      "company": "LASP (Labratory for Atmospheric and Space Physics)",
-      "position": "Software Engineer",
-      "url": "https://lasp.colorado.edu/",
-      "start_date": "2015",
-      "end_date": "2019",
-      "summary": "",
+      "company": "Cyber Shujaa",
+      "position": "Cloud and Network Security Engineer",
+      "start_date": "12/05/2025",
+      "end_date": "Present",
+      "summary": "I am currently working as a Cloud and Network Security Engineer at Cyber Shujaa. In this role, I focus on securing cloud infrastructure, deploying security controls, and managing network operations. I support secure system design, threat detection, and incident response. My responsibilities include configuring firewalls, implementing encryption, conducting vulnerability assessments, and ensuring compliance with industry standards. I also collaborate with IT teams to enhance security awareness and participate in risk assessments.",
       "highlights": [
-        "Created and maintained back-end API services using Flask.",
-        "Created system administration scripts using Python to automate the processing and deployment of mission-critical data.",
-        "Tasked with migrating in-house data pipelines to a cloud-based solution using AWS."
+        "Implementing secure cloud architectures using AWS practices, including identity and access management (IAM), encryption, and multi-factor authentication (MFA).",
+        "Configuring and managing firewalls, intrusion detection systems (IDS), and VPNs to protect networks from unauthorized access.",
+        "Conducting regular vulnerability assessments and penetration testing using tools like Nessus.",
+        "Developing security documentation and incident response playbooks to improve organizational resilience against cyber threats."
       ]
     },
     {
-      "company": "WVU GIS Technical Center",
-      "position": "Software Engineer",
-      "url": "https://wvgis.wvu.edu/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "",
+      "company": "MINISTRY OF EDUCATION",
+      "position": "ICT OFFICER",
+      "start_date": "13/02/2023",
+      "end_date": "10/06/2024",
+      "summary": "I worked as an EMIS (Education Management Information System) officer at the Ministry of Education.  Supporting data administration, analysis, and reporting for educational statistics and performance indicators was the main responsibility of my position.  I assisted with data entry, database upkeep, data cleaning, and report generation that influenced planning and policy decisions.  I also worked with IT personnel and education officers to improve data quality and expedite procedures.",
       "highlights": [
-        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
-        "Wrote and published geoprocessing services using Python and ArcPy",
-        "Created backend user authentication systems with PHP and MySQL"
+        "To troubleshoot network performance, begin by identifying issues and ensuring physical connections",
+        "Verify configurations with 'show' commands like 'show running-config' on Cisco devices.",
+        "Monitor resources with commands like 'show processes cpu' to check CPU.",
+        "Test connectivity using ping and traceroute tools, and verify DNS resolution. Review system logs for errors and engage with ISPs if needed.",
+        "Keep firmware and software updated, and document findings and solutions for future reference and knowledge sharing"
       ]
     },
     {
-      "company": "MATRIC (Mid-Atlantic Technology, Research, and Innovation Center)",
-      "position": "Software Engineer",
-      "url": "https://www.matricinnovates.com/",
-      "start_date": "2010",
-      "end_date": "2011",
-      "summary": "",
+      "company": "AICO Management Consultant",
+      "position": "Devops Intern",
+      "url": "https://www.linkedin.com/company/aicomanagementgroup/",
+      "start_date": "10/10/2022",
+      "end_date": "17/04/2023",
+      "summary": "At AICO, I worked as part of a technology-focused team, helping to set up and manage cloud-based systems and enterprise solutions. My responsibilities included deploying applications, maintaining system security, and troubleshooting issues. I also worked closely with other team members to improve system performance and made sure everything ran smoothly.",
       "highlights": [
-        "Created GIS web applications with ActionScript and the ArcGIS API for Flex.",
-        "Developed custom widgets for routing, wind data visualization, and simulations.",
-        "Wrote and maintained SQL-based queries to efficiently retrieve and analyze data from GIS REST services."
+        "Primary role was to assist the DevOps team in development of cutting-edge solutions using Microsoft Azure and YOLOv5, optimizing models for accuracy and efficiency.",
+        "Orchestrated seamless model training and deployment pipelines. After achieving optimal model weights, I collaborated with UI/UX developers by pushing outputs to GitHub, ensuring integration into user interfaces.",
+        "Through continuous experimentation and collaboration, I refined models for superior performance across diverse datasets. This involved close coordination with cross-functional teams to align technical solutions with business objectives."
       ]
     }
   ],
