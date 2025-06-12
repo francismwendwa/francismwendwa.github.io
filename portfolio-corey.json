@@ -89,6 +89,44 @@
       ]
     }
   ],
+  "lab_challenges": [
+  {
+    "title": "Hack The Box: Linux Fundamentals Badge",
+    "problem_statement": "Earned badge by completing hands-on Linux privilege escalation and filesystem management labs.",
+    "approach": "Used terminal navigation, file permissions, and cron jobs to complete guided exercises.",
+    "tools_used": ["Linux CLI"],
+    "screenshots": [],
+    "lessons_learned": "Solidified understanding of Linux as a base system for security assessments.",
+    "external_link": "https://academy.hackthebox.com/achievement/1916568/35"
+  },
+  {
+    "title": "TryHackMe: DNS in Detail",
+    "problem_statement": "Explore how DNS works and learn how to enumerate records using practical exercises.",
+    "approach": "Followed guided walkthrough and manually resolved hostnames and DNS records.",
+    "tools_used": ["nslookup", "dig", "Wireshark"],
+    "screenshots": [],
+    "lessons_learned": "Learned about record types (A, NS, CNAME) and how attackers use DNS for recon.",
+    "external_link": "https://tryhackme.com/room/dnsindetail"
+  },
+  {
+    "title": "Hack The Box: Windows Fundamentals Badge",
+    "problem_statement": "Completed Windows administration and Active Directory labs to earn achievement.",
+    "approach": "Learned PowerShell basics, user/group policies, and basic enumeration techniques.",
+    "tools_used": ["PowerShell", "RDP", "Windows CLI"],
+    "screenshots": [],
+    "lessons_learned": "Built foundational knowledge in Windows environments — useful for blue/red teaming.",
+    "external_link": "https://academy.hackthebox.com/achievement/1916568/81"
+  },
+  {
+    "title": "Cloud Threat Analysis: Transit Gateway Analytics",
+    "problem_statement": "Investigate suspicious activity between AWS VPCs using flow logs and Transit Gateway.",
+    "approach": "Used Transit Gateway flow logs to visualize and identify anomalous traffic patterns.",
+    "tools_used": ["AWS CloudWatch", "Athena", "VPC Flow Logs", "Transit Gateway"],
+    "screenshots": [],
+    "lessons_learned": "Understood how visibility across VPCs can improve incident detection and investigation.",
+    "external_link": "https://medium.com/@francismwendwa230/unlocking-hidden-stories-in-cloud-networks-the-power-of-transit-gateway-analytics-0b3ed45b13f9"
+  }
+],
   "volunteer_experience": [
     {
       "organization": "Utafiti Football Club",
