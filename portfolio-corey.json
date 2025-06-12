@@ -87,45 +87,27 @@
           "caption": "Math Power Calculator"
         }
       ]
-    },
+    }
   ],
   "volunteer_experience": [
     {
-      "organization": "Heritage Point Assisted Living",
-      "position": "Computer Assistance",
-      "url": "https://www.heritage-point.com/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
-      "highlights": []
-    },
-    {
-      "organization": "Marshall University",
-      "position": "Student Ambassador",
-      "url": "https://marshall.edu",
-      "start_date": "2007",
-      "end_date": "2008",
-      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
+      "organization": "Utafiti Football Club",
+      "position": "Secritary",
+      "start_date": "2019",
+      "end_date": "2022",
+      "summary": "As Secretary of Utafiti Football Club, I was responsible for overseeing the club’s administrative operations, maintaining records, and ensuring effective communication between team members, management, and external stakeholders. My duties included organizing meetings, preparing agendas and minutes, coordinating match fixtures, managing correspondence, and supporting team logistics.",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
+      "institution": "Kenyatta University",
+      "location": "Nairobi, Kenya",
       "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Minor in Mathematics"
+        "Bachelor of Science in Information Technology"
       ],
-      "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
-      ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
+      "gpa_cumulative": "59.63",
+      "graduation_date": "2019"
     }
   ],
   "skills": [
@@ -147,20 +129,32 @@
   ],
   "interests": [
     {
-      "name": "Woodworking",
-      "summary": "",
-      "images": [
-        {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
-        },
-        {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
-        }
-      ]
+      "name": "Football",
+      "summary": "I have a strong passion for football, both as a player and a fan. The sport has taught me valuable life skills such as teamwork, discipline, resilience, and strategic thinking. Whether on the pitch or supporting my favorite teams, football keeps me active, engaged, and connected with others who share the same enthusiasm for the game."
     }
   ],
-  "languages": [],
-  "references": []
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swahili",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Elizabeth Muiruri",
+      "relation": "Previous Boss",
+      "position": "Assistant quality assurance",
+      "Contact" : "Upon request"
+    },
+    {
+      "name": "James Gichia Kabebe",
+      "relation": "Previous Boss",
+      "position": "Curriculum Support Officer",
+      "Contact" : "Upon request"
+    }
+  ]
 }
